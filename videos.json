@@ -1,0 +1,29 @@
+[
+  {
+    "produto": "Limpa Freio",
+    "segmento": "Automóveis",
+    "categoria": "Limpeza",
+    "descricao": "Remove óleo e sujeira com secagem rápida.",
+    "assistente": "",
+    "baixar": "",
+    "thumb": "./polegares/limpa-freio.jpg"
+  },
+  {
+    "produto": "Descarbonizante",
+    "segmento": "Automóveis",
+    "categoria": "Manutenção",
+    "descricao": "Ajuda a remover carbonização e melhorar desempenho.",
+    "assistente": "",
+    "baixar": "",
+    "thumb": "./polegares/descarbonizante.jpg"
+  },
+  {
+    "produto": "Limpa Pneus (Pretinho)",
+    "segmento": "Automóveis",
+    "categoria": "Estética",
+    "descricao": "Realça o brilho e protege os pneus.",
+    "assistente": "",
+    "baixar": "",
+    "thumb": "./polegares/limpa-pneus.jpg"
+  }
+]
