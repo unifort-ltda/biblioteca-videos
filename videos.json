@@ -33,6 +33,7 @@
     "descricao": "Realça o brilho e protege os pneus, deixando aspecto de novo.",
     "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
     "baixar": "https://drive.google.com/uc?export=download&id=SEU_ID_AQUI",
-    "thumb": "https://raw.githubusercontent.com/unifort-ltda/biblioteca-videos/main/thumbs/limpa-pneus.jpg"
+    "thumb": "./thumbs/limpa-pneus.jpg"
+"
   }
 ]
