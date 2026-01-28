@@ -1,7 +1,7 @@
 [
   {
     "produto": "Limpa Freio",
-    "segmento": "Autos",
+    "segmento": "Automóveis",
     "categoria": "Limpeza",
     "descricao": "Remove óleo e sujeira com secagem rápida. Ideal para manutenção.",
     "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
@@ -10,7 +10,7 @@
   },
   {
     "produto": "Descarbonizante",
-    "segmento": "Autos",
+    "segmento": "Automóveis",
     "categoria": "Limpeza",
     "descricao": "Ajuda a remover carbonização e melhorar desempenho.",
     "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
@@ -25,5 +25,14 @@
     "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
     "baixar": "https://drive.google.com/uc?export=download&id=SEU_ID_AQUI",
     "thumb": ""
+  },
+  {
+    "produto": "Limpa Pneus (Pretinho)",
+    "segmento": "Automóveis",
+    "categoria": "Estética",
+    "descricao": "Realça o brilho e protege os pneus, deixando aspecto de novo.",
+    "assistir": "COLE_AQUI_O_LINK_DO_VIDEO_NO_DRIVE",
+    "baixar": "COLE_AQUI_O_LINK_DE_DOWNLOAD_DO_VIDEO",
+    "thumb": "https://raw.githubusercontent.com/unifort-ltda/biblioteca-videos/main/thumbs/limpa-pneus.jpg"
   }
 ]
