@@ -1,0 +1,29 @@
+[
+  {
+    "produto": "Limpa Freio",
+    "segmento": "Autos",
+    "categoria": "Limpeza",
+    "descricao": "Remove óleo e sujeira com secagem rápida. Ideal para manutenção.",
+    "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=SEU_ID_AQUI",
+    "thumb": ""
+  },
+  {
+    "produto": "Descarbonizante",
+    "segmento": "Autos",
+    "categoria": "Limpeza",
+    "descricao": "Ajuda a remover carbonização e melhorar desempenho.",
+    "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=SEU_ID_AQUI",
+    "thumb": ""
+  },
+  {
+    "produto": "EnergyClean (Limpa Contato)",
+    "segmento": "Químicos",
+    "categoria": "Manutenção",
+    "descricao": "Limpeza de contatos elétricos com evaporação rápida.",
+    "assistir": "https://drive.google.com/file/d/SEU_ID_AQUI/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=SEU_ID_AQUI",
+    "thumb": ""
+  }
+]
