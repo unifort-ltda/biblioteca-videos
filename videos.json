@@ -1,29 +1,418 @@
 [
   {
-    "produto": "Limpa Freio",
-    "segmento": "Automóveis",
-    "categoria": "Limpeza",
-    "descricao": "Remove óleo e sujeira com secagem rápida.",
-    "assistente": "",
-    "baixar": "",
-    "thumb": "./polegares/limpa-freio.jpg"
+    "produto": "Alicates",
+    "segmento": "Ferramentas",
+    "categoria": "Ferramentas Manuais",
+    "descricao": "Alicates para cortes, ajustes e manutenção no dia a dia da oficina.",
+    "assistente": "https://drive.google.com/file/d/1UwrhXsbbe7pxVcwNXZLy3exW6-j8s54F/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1UwrhXsbbe7pxVcwNXZLy3exW6-j8s54F"
   },
   {
-    "produto": "Descarbonizante",
+    "produto": "Jogo de Bits",
+    "segmento": "Ferramentas",
+    "categoria": "Acessórios",
+    "descricao": "Jogo de bits para parafusos e montagens, ideal para manutenção rápida.",
+    "assistente": "https://drive.google.com/file/d/14S_sGwdygCvi-TLvu0wBwg3Ftx8VYFQg/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=14S_sGwdygCvi-TLvu0wBwg3Ftx8VYFQg"
+  },
+  {
+    "produto": "Macaco Jacaré",
     "segmento": "Automóveis",
-    "categoria": "Manutenção",
-    "descricao": "Ajuda a remover carbonização e melhorar desempenho.",
-    "assistente": "",
-    "baixar": "",
-    "thumb": "./polegares/descarbonizante.jpg"
+    "categoria": "Ferramentas",
+    "descricao": "Elevação segura e prática para manutenção e troca de rodas.",
+    "assistente": "https://drive.google.com/file/d/14XK4OBkB0HNx3mgOVvqoW55Pqwg03jqi/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=14XK4OBkB0HNx3mgOVvqoW55Pqwg03jqi"
+  },
+  {
+    "produto": "Silifort",
+    "segmento": "Químicos",
+    "categoria": "Lubrificação",
+    "descricao": "Proteção e lubrificação com acabamento limpo. Ideal para uso geral.",
+    "assistente": "https://drive.google.com/file/d/1uX7GaXaIOii5W8zu_aXe9D_c_o0fRAsN/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1uX7GaXaIOii5W8zu_aXe9D_c_o0fRAsN"
+  },
+  {
+    "produto": "Aditivo de Radiador",
+    "segmento": "Automóveis",
+    "categoria": "Arrefecimento",
+    "descricao": "Ajuda a proteger o sistema contra corrosão e variações de temperatura.",
+    "assistente": "https://drive.google.com/file/d/14frTMrbLmOlH_V3A3M9PuDxjpYB0jiA5/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=14frTMrbLmOlH_V3A3M9PuDxjpYB0jiA5"
+  },
+  {
+    "produto": "Aditivos (Linha)",
+    "segmento": "Automóveis",
+    "categoria": "Arrefecimento",
+    "descricao": "Linha de aditivos para manutenção e proteção do sistema de arrefecimento.",
+    "assistente": "https://drive.google.com/file/d/1F-7fPn1E77klRFLg0Sxllh8lTsdvPgo2/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1F-7fPn1E77klRFLg0Sxllh8lTsdvPgo2"
+  },
+  {
+    "produto": "Caixa de Ferramentas",
+    "segmento": "Organização",
+    "categoria": "Armazenamento",
+    "descricao": "Organização e transporte prático para ferramentas e acessórios.",
+    "assistente": "https://drive.google.com/file/d/1CCaro89Bs-40VptzJN4-032YeEVO7KVf/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1CCaro89Bs-40VptzJN4-032YeEVO7KVf"
+  },
+  {
+    "produto": "Desforcímetro",
+    "segmento": "Ferramentas",
+    "categoria": "Medição",
+    "descricao": "Ferramenta para medição/aperto com precisão em aplicações mecânicas.",
+    "assistente": "https://drive.google.com/file/d/1qLjDW77U2mmRSXPsPKMwIpYrGMoo-BEE/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1qLjDW77U2mmRSXPsPKMwIpYrGMoo-BEE"
   },
   {
     "produto": "Limpa Pneus (Pretinho)",
+    "segmento": "Estética Automotiva",
+    "categoria": "Acabamento",
+    "descricao": "Realça o brilho e deixa o pneu com aparência de novo.",
+    "assistente": "https://drive.google.com/file/d/1b9mqN6gxakE83wnWe0GUCbpocGWMSwv9/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1b9mqN6gxakE83wnWe0GUCbpocGWMSwv9"
+  },
+  {
+    "produto": "Lubrificante de Corrente (Motos)",
+    "segmento": "Motos",
+    "categoria": "Lubrificação",
+    "descricao": "Lubrificação e proteção para corrente, ajudando a reduzir desgaste e ruídos.",
+    "assistente": "https://drive.google.com/file/d/1kTX97EuYIOiOlX5cNfZmyVOR6HliboJl/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1kTX97EuYIOiOlX5cNfZmyVOR6HliboJl"
+  },
+  {
+    "produto": "Selantes para Pneus",
     "segmento": "Automóveis",
-    "categoria": "Estética",
-    "descricao": "Realça o brilho e protege os pneus.",
-    "assistente": "",
-    "baixar": "",
-    "thumb": "./polegares/limpa-pneus.jpg"
+    "categoria": "Manutenção",
+    "descricao": "Auxilia no reparo emergencial e vedação de pequenos furos em pneus.",
+    "assistente": "https://drive.google.com/file/d/1dj42B-n9jz4c_rNsRBhWmrYi0-dWbBBd/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1dj42B-n9jz4c_rNsRBhWmrYi0-dWbBBd"
+  },
+  {
+    "produto": "Aromatizante para Ar Condicionado",
+    "segmento": "Estética Automotiva",
+    "categoria": "Odorização",
+    "descricao": "Ajuda a eliminar odores e deixa o interior com sensação de limpeza.",
+    "assistente": "https://drive.google.com/file/d/16ACRJtxHZxU1cnY95gKAQqHhkfwHCs6g/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=16ACRJtxHZxU1cnY95gKAQqHhkfwHCs6g"
+  },
+  {
+    "produto": "Caixas Organizadoras",
+    "segmento": "Organização",
+    "categoria": "Armazenamento",
+    "descricao": "Organização prática para estoque, peças, oficina e uso interno.",
+    "assistente": "https://drive.google.com/file/d/1Q9Ipn0FaoA-vj2TKgFUuFjZ-rhO3BKnv/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1Q9Ipn0FaoA-vj2TKgFUuFjZ-rhO3BKnv"
+  },
+  {
+    "produto": "Câmara de Ar Unifort",
+    "segmento": "Motos",
+    "categoria": "Pneus e Rodas",
+    "descricao": "Reposição confiável para aplicações em rodas e pneus.",
+    "assistente": "https://drive.google.com/file/d/1tqBq4cGm1DMy3k3QVabTQqvwDcNut6IM/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1tqBq4cGm1DMy3k3QVabTQqvwDcNut6IM"
+  },
+  {
+    "produto": "Catraca de Freios",
+    "segmento": "Pesada",
+    "categoria": "Freios",
+    "descricao": "Componente para sistema de freio, ideal para reposição e manutenção.",
+    "assistente": "https://drive.google.com/file/d/16ctoqtG2zzZILmM0oqO3uHiSGxhjP6Xw/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=16ctoqtG2zzZILmM0oqO3uHiSGxhjP6Xw"
+  },
+  {
+    "produto": "Cera Revitalizadora",
+    "segmento": "Estética Automotiva",
+    "categoria": "Proteção",
+    "descricao": "Realça o brilho e ajuda a proteger a pintura no pós-lavagem.",
+    "assistente": "https://drive.google.com/file/d/141NZFuw-q36xaq-Mthp_nTLk8X5_zmCU/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=141NZFuw-q36xaq-Mthp_nTLk8X5_zmCU"
+  },
+  {
+    "produto": "Cuíca de Freio",
+    "segmento": "Pesada",
+    "categoria": "Freios",
+    "descricao": "Atuador para sistema de freio em veículos pesados. Manutenção segura.",
+    "assistente": "https://drive.google.com/file/d/19akRPJTOhT4aS8uzI4SVSiv7M5_5O2zf/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=19akRPJTOhT4aS8uzI4SVSiv7M5_5O2zf"
+  },
+  {
+    "produto": "Descarbonizante",
+    "segmento": "Químicos",
+    "categoria": "Manutenção",
+    "descricao": "Ajuda a remover carbonização e melhorar o desempenho do motor.",
+    "assistente": "https://drive.google.com/file/d/1WarilZ14xO2MOW06ykhijAFpwJwEtVER/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1WarilZ14xO2MOW06ykhijAFpwJwEtVER"
+  },
+  {
+    "produto": "Detmol",
+    "segmento": "Químicos",
+    "categoria": "Limpeza",
+    "descricao": "Solução de limpeza para uso geral, auxiliando na remoção de sujeira.",
+    "assistente": "https://drive.google.com/file/d/1lfTySw2-lYv4LWMMFZA1Wm7FDWLTqYl7/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1lfTySw2-lYv4LWMMFZA1Wm7FDWLTqYl7"
+  },
+  {
+    "produto": "Filtro de Ar + Alkii Breeze",
+    "segmento": "Automóveis",
+    "categoria": "Manutenção",
+    "descricao": "Itens para manutenção preventiva e cuidado com o sistema de admissão/ar.",
+    "assistente": "https://drive.google.com/file/d/16EcaIr50wUugH9_ONvkdm7i6q0H-U-uf/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=16EcaIr50wUugH9_ONvkdm7i6q0H-U-uf"
+  },
+  {
+    "produto": "FortBond",
+    "segmento": "Químicos",
+    "categoria": "Fixação",
+    "descricao": "Adesivo instantâneo para colagens rápidas e firmes em diversas aplicações.",
+    "assistente": "https://drive.google.com/file/d/1k85Ua6BK3swKauMddldRGG12fBKqycQ-/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1k85Ua6BK3swKauMddldRGG12fBKqycQ-"
+  },
+  {
+    "produto": "Glassfort",
+    "segmento": "Estética Automotiva",
+    "categoria": "Limpeza",
+    "descricao": "Limpeza de vidros com acabamento mais transparente e sem manchas.",
+    "assistente": "https://drive.google.com/file/d/10o5aJMPXCJjJ7cyVPnaIqtaCO9OyW0dc/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=10o5aJMPXCJjJ7cyVPnaIqtaCO9OyW0dc"
+  },
+  {
+    "produto": "Jogo de Chaves Unifort",
+    "segmento": "Ferramentas",
+    "categoria": "Ferramentas Manuais",
+    "descricao": "Jogo de chaves para manutenção e montagens com praticidade.",
+    "assistente": "https://drive.google.com/file/d/1_IEBieq4mAByp_INZAdY98KUZTdzS5V1/view?usp=drive_link",
+    "baixar": "https://drive.google.com/uc?export=download&id=1_IEBieq4mAByp_INZAdY98KUZTdzS5V1"
+  },
+  {
+    "produto": "Limpa Tudo Unifort",
+    "segmento": "Químicos",
+    "categoria": "Limpeza",
+    "descricao": "Multiuso para remover sujeiras do dia a dia com praticidade.",
+    "assistente": "https://drive.google.com/file/d/16LwcaIem25Iiu8LQo-HEpzePEYbBrCQ2/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=16LwcaIem25Iiu8LQo-HEpzePEYbBrCQ2"
+  },
+  {
+    "produto": "Limpa Vidros",
+    "segmento": "Estética Automotiva",
+    "categoria": "Limpeza",
+    "descricao": "Remove sujeiras do vidro e melhora a visibilidade com secagem rápida.",
+    "assistente": "https://drive.google.com/file/d/1ZCGZ8-Mba8q4xGqzNwvPg6HE5h2njQQV/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1ZCGZ8-Mba8q4xGqzNwvPg6HE5h2njQQV"
+  },
+  {
+    "produto": "Magic Cleaner",
+    "segmento": "Químicos",
+    "categoria": "Limpeza",
+    "descricao": "Limpeza prática para sujeiras difíceis em diversas superfícies.",
+    "assistente": "https://drive.google.com/file/d/1-JH7drLUhY_8EGO9v0vUSWfrFX493PEq/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1-JH7drLUhY_8EGO9v0vUSWfrFX493PEq"
+  },
+  {
+    "produto": "Fita Antiderrapante",
+    "segmento": "Utilidades",
+    "categoria": "Segurança",
+    "descricao": "Aumenta a aderência e ajuda a prevenir escorregões em áreas de circulação.",
+    "assistente": "https://drive.google.com/file/d/1PBUnICidEEY0KqMQQoVk58bE3VmDauES/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1PBUnICidEEY0KqMQQoVk58bE3VmDauES"
+  },
+  {
+    "produto": "Kit Baterias",
+    "segmento": "Automóveis",
+    "categoria": "Elétrica",
+    "descricao": "Itens para suporte e manutenção relacionados a bateria e conexões.",
+    "assistente": "https://drive.google.com/file/d/1lIiKjIbbjm7QxYi3szmf89_UmTSgMA8I/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1lIiKjIbbjm7QxYi3szmf89_UmTSgMA8I"
+  },
+  {
+    "produto": "Limpa Freios",
+    "segmento": "Automóveis",
+    "categoria": "Limpeza",
+    "descricao": "Remove óleo, graxa e sujeira com secagem rápida. Ideal para manutenção.",
+    "assistente": "https://drive.google.com/file/d/1PdpPWf4SqGZDp8h7TMCEwcAzA4_Aoa9b/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1PdpPWf4SqGZDp8h7TMCEwcAzA4_Aoa9b"
+  },
+  {
+    "produto": "Limpa Reservatório",
+    "segmento": "Automóveis",
+    "categoria": "Limpeza",
+    "descricao": "Ajuda a remover sujeiras e resíduos em reservatórios durante manutenção.",
+    "assistente": "https://drive.google.com/file/d/1TSFgR4cEX3HTRX4RLwtY0oXCei_BHwpG/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1TSFgR4cEX3HTRX4RLwtY0oXCei_BHwpG"
+  },
+  {
+    "produto": "Mini Porta Pallets",
+    "segmento": "Organização",
+    "categoria": "Armazenamento",
+    "descricao": "Solução prática para organização e separação de materiais no estoque.",
+    "assistente": "https://drive.google.com/file/d/1RAJDZFwa5ZZ1E2qRwugWIALsI22nt1wR/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1RAJDZFwa5ZZ1E2qRwugWIALsI22nt1wR"
+  },
+  {
+    "produto": "Correiafort",
+    "segmento": "Automóveis",
+    "categoria": "Manutenção",
+    "descricao": "Correias para reposição e manutenção com foco em segurança e desempenho.",
+    "assistente": "https://drive.google.com/file/d/1RBB1aM4wE4Jxm8qLvRwiUryT64UzdHbH/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1RBB1aM4wE4Jxm8qLvRwiUryT64UzdHbH"
+  },
+  {
+    "produto": "Graxa Universal",
+    "segmento": "Químicos",
+    "categoria": "Lubrificação",
+    "descricao": "Lubrificação versátil para diversos pontos, ajudando a reduzir atrito e desgaste.",
+    "assistente": "https://drive.google.com/file/d/1exgd7kxVwDEr5jiTltRUT4OaWF2C8SYK/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1exgd7kxVwDEr5jiTltRUT4OaWF2C8SYK"
+  },
+  {
+    "produto": "Jogo de Soquetes",
+    "segmento": "Ferramentas",
+    "categoria": "Ferramentas Manuais",
+    "descricao": "Soquetes para manutenção com mais agilidade e padronização no aperto.",
+    "assistente": "https://drive.google.com/file/d/1hcUMvCGmtl9GRyAqAkBbdXzerB8HlGag/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1hcUMvCGmtl9GRyAqAkBbdXzerB8HlGag"
+  },
+  {
+    "produto": "Presilhas (Vídeo)",
+    "segmento": "Automóveis",
+    "categoria": "Acessórios",
+    "descricao": "Presilhas para fixação e acabamento, ideais para reposição e manutenção.",
+    "assistente": "https://drive.google.com/file/d/1J9lq-_ZkI-Mx1B9ioSvnLcsIXpzfr9aO/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1J9lq-_ZkI-Mx1B9ioSvnLcsIXpzfr9aO"
+  },
+  {
+    "produto": "BlackFort",
+    "segmento": "Químicos",
+    "categoria": "Manutenção",
+    "descricao": "Auxilia em aplicações de manutenção com ação prática para o dia a dia.",
+    "assistente": "https://drive.google.com/file/d/1Jpbg8cEC9MCAinrf9B62gu3TjDrnnxRF/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1Jpbg8cEC9MCAinrf9B62gu3TjDrnnxRF"
+  },
+  {
+    "produto": "Renovador de Plásticos",
+    "segmento": "Estética Automotiva",
+    "categoria": "Acabamento",
+    "descricao": "Renova e protege plásticos, realçando a cor e o aspecto de novo.",
+    "assistente": "https://drive.google.com/file/d/1yTPbEoYxf33jOvOw6j3nGnGX1uPUuBzB/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1yTPbEoYxf33jOvOw6j3nGnGX1uPUuBzB"
+  },
+  {
+    "produto": "Citrus Limp",
+    "segmento": "Químicos",
+    "categoria": "Limpeza",
+    "descricao": "Desengraxante/limpador com alto poder de remoção para sujeiras pesadas.",
+    "assistente": "https://drive.google.com/file/d/1X5h3AmqwoDtqdInVn3uALdZRK-x4-Zb9/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1X5h3AmqwoDtqdInVn3uALdZRK-x4-Zb9"
+  },
+  {
+    "produto": "Descarbonizante (Versão 2)",
+    "segmento": "Químicos",
+    "categoria": "Manutenção",
+    "descricao": "Versão alternativa do vídeo do descarbonizante para campanhas e catálogo.",
+    "assistente": "https://drive.google.com/file/d/1_nY9ggmExYnIhSmz0DYBO-Lj616vlUY9/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1_nY9ggmExYnIhSmz0DYBO-Lj616vlUY9"
+  },
+  {
+    "produto": "Grafort",
+    "segmento": "Químicos",
+    "categoria": "Lubrificação",
+    "descricao": "Lubrificante para aplicações práticas, ajudando a reduzir atrito e ruídos.",
+    "assistente": "https://drive.google.com/file/d/126RqpGYwI3Uww4XNKz48JRbn4hVcrJPc/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=126RqpGYwI3Uww4XNKz48JRbn4hVcrJPc"
+  },
+  {
+    "produto": "EnergyClean (Limpa Contato)",
+    "segmento": "Químicos",
+    "categoria": "Manutenção",
+    "descricao": "Limpeza de contatos elétricos com saida rápida e sem resíduos.",
+    "assistente": "https://drive.google.com/file/d/1IoaiGF3vn45Z3gdJnwAo0qtjFd0UM4w3/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1IoaiGF3vn45Z3gdJnwAo0qtjFd0UM4w3"
+  },
+  {
+    "produto": "Lubrifix",
+    "segmento": "Químicos",
+    "categoria": "Lubrificação",
+    "descricao": "Lubrificante multiuso para manutenção, proteção e redução de atrito.",
+    "assistente": "https://drive.google.com/file/d/15HcGLudIn1S4ByXVaD7xgerALBJf7s-B/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=15HcGLudIn1S4ByXVaD7xgerALBJf7s-B"
+  },
+  {
+    "produto": "Silicone AJAX e OCTANA",
+    "segmento": "Químicos",
+    "categoria": "Vedação",
+    "descricao": "Silicones para vedação com acabamento profissional em diversas aplicações.",
+    "assistente": "https://drive.google.com/file/d/1jrcC-eo7tzt__R0U9L5rzmLkz5P_zdN_/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1jrcC-eo7tzt__R0U9L5rzmLkz5P_zdN_"
+  },
+  {
+    "produto": "Silicone Neutro 85HT",
+    "segmento": "Químicos",
+    "categoria": "Vedação",
+    "descricao": "Vedação neutra com alta performance para aplicações técnicas.",
+    "assistente": "https://drive.google.com/file/d/1Go1UAoiy3deBSlOf9tOeJ_Tnhdr18htH/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1Go1UAoiy3deBSlOf9tOeJ_Tnhdr18htH"
+  },
+  {
+    "produto": "TireFort",
+    "segmento": "Automóveis",
+    "categoria": "Pneus e Rodas",
+    "descricao": "Produto voltado para cuidado/manutenção de pneus com aplicação prática.",
+    "assistente": "https://drive.google.com/file/d/1AEhtRTljSwp69quYbpYzgFpQX09zqwBe/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1AEhtRTljSwp69quYbpYzgFpQX09zqwBe"
+  },
+  {
+    "produto": "Veda Radiador Unifort",
+    "segmento": "Automóveis",
+    "categoria": "Arrefecimento",
+    "descricao": "Auxilia na vedação e manutenção do sistema de arrefecimento.",
+    "assistente": "https://drive.google.com/file/d/1R5kO7WBzQIMgmlQrENfGzb7L89F3X1xp/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1R5kO7WBzQIMgmlQrENfGzb7L89F3X1xp"
+  },
+  {
+    "produto": "Veda Rosca",
+    "segmento": "Químicos",
+    "categoria": "Vedação",
+    "descricao": "Vedação de roscas para reduzir vazamentos e garantir melhor fixação.",
+    "assistente": "https://drive.google.com/file/d/1TeE43JtFasWXDjw-ldN5YCK48XWO62sC/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1TeE43JtFasWXDjw-ldN5YCK48XWO62sC"
+  },
+  {
+    "produto": "Verniz de Motor",
+    "segmento": "Químicos",
+    "categoria": "Proteção",
+    "descricao": "Acabamento e proteção para o compartimento do motor com visual renovado.",
+    "assistente": "https://drive.google.com/file/d/102IpIYJ1nN65xlpSq-V74BKnf58Zph7e/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=102IpIYJ1nN65xlpSq-V74BKnf58Zph7e"
+  },
+  {
+    "produto": "Cera de Carnaúba",
+    "segmento": "Estética Automotiva",
+    "categoria": "Proteção",
+    "descricao": "Brilho e proteção com toque de carnaúba para acabamento premium.",
+    "assistente": "https://drive.google.com/file/d/1BWA-6HbOL04PP861fOUmUWQIdkmVgG5N/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1BWA-6HbOL04PP861fOUmUWQIdkmVgG5N"
+  },
+  {
+    "produto": "Ceramic & Carnaúba",
+    "segmento": "Estética Automotiva",
+    "categoria": "Proteção",
+    "descricao": "Spray de proteção com brilho e toque de carnaúba para manutenção rápida.",
+    "assistente": "https://drive.google.com/file/d/16XywJ2jm7H3FetzNIHCBt_lbdMj2zswX/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=16XywJ2jm7H3FetzNIHCBt_lbdMj2zswX"
+  },
+  {
+    "produto": "Shampoo UniWash",
+    "segmento": "Estética Automotiva",
+    "categoria": "Lavagem",
+    "descricao": "Shampoo automotivo para lavagem com espuma e limpeza eficiente.",
+    "assistente": "https://drive.google.com/file/d/118fLzq9yfjMu3XKkkO0xgUbYtUpwQ7OU/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=118fLzq9yfjMu3XKkkO0xgUbYtUpwQ7OU"
+  },
+  {
+    "produto": "Unishine",
+    "segmento": "Estética Automotiva",
+    "categoria": "Polimento",
+    "descricao": "Realce de brilho e acabamento para etapa de polimento/renovação.",
+    "assistente": "https://drive.google.com/file/d/1UN18aGCbPBMSsYZdZ-oKNavj8VbIBMsH/view?usp=sharing",
+    "baixar": "https://drive.google.com/uc?export=download&id=1UN18aGCbPBMSsYZdZ-oKNavj8VbIBMsH"
   }
 ]
