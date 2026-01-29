@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Biblioteca de Vídeos de Produtos — Unifort</title>
+<style>
+body{margin:0;background:#070b14;color:#e8eef5;font-family:system-ui}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;padding:20px}
+.card{background:#0c1426;border-radius:12px;overflow:hidden}
+.thumb{height:150px;width:100%;object-fit:cover}
+.cardBody{padding:10px}
+.title{margin:0 0 6px}
+.desc{color:#9aa6b2;font-size:13px}
+.actions a, .actions button{margin-right:6px}
+</style>
+</head>
+<body>
+<div class="grid" id="grid"></div>
+<script>
+fetch('videos.json').then(r=>r.json()).then(DATA=>{
+ const g=document.getElementById('grid');
+ DATA.forEach(i=>{
+  const c=document.createElement('div');c.className='card';
+  const img=document.createElement('img');img.className='thumb';img.src=i.imagem;c.appendChild(img);
+  const b=document.createElement('div');b.className='cardBody';
+  b.innerHTML=`<h3 class="title">${i.produto}</h3><p class="desc">${i.descricao}</p>
+  <div class="actions"><a href="${i.assistente}" target="_blank">Assistir</a>
+  <a href="${i.baixar}" target="_blank">Baixar</a></div>`;
+  c.appendChild(b);g.appendChild(c);
+ });
+});
+</script>
+</body>
+</html>
