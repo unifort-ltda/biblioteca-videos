@@ -343,7 +343,7 @@
     "produto": "Presilhas",
     "segmento": "Ferramentas",
     "categoria": "Ferramentas",
-    "codigo": "8880.046.094",
+    "codigo": "5000.150",
     "descricao": "Fixação prática e segura para diversas aplicações automotivas.",
     "imagem": "https://drive.google.com/thumbnail?id=1J9lq-_ZkI-Mx1B9ioSvnLcsIXpzfr9aO&sz=w1200",
     "assistente": "https://youtube.com/shorts/fyan2yLrq6Y",
@@ -518,5 +518,16 @@
     "imagem": "https://drive.google.com/thumbnail?id=1UN18aGCbPBMSsYZdZ-oKNavj8VbIBMsH&sz=w1200",
     "assistente": "https://youtube.com/shorts/FgElAD-QJOQ",
     "baixar": "https://drive.google.com/uc?export=download&id=1UN18aGCbPBMSsYZdZ-oKNavj8VbIBMsH"
-  }
-]
+  },
+  {
+    "produto": "3 produtos essenciais para Revisão",
+    "segmento": "Mecânica",
+    "categoria": "Automotiva",
+    "codigo": "9850.117.000- 9850.300.151- 9850.310.200.",
+    "descricao": "Remove imperfeições leves e realça o brilho da pintura..",
+    "imagem": "https://drive.google.com/file/d/1aCJjkWUWW6UjfIZ89tNNLqK_CTTtDOxQ/view?usp=sharing",
+    "assistente": "https://youtube.com/shorts/Y4LYfQbFgfg",
+    "baixar": "https://drive.google.com/uc?export=download&id=19q9kecjEK1wwRdnwWNh74M1NeCFNV_yY
+"
+    }
+  ]
