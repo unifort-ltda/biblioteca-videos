@@ -1,5 +1,15 @@
 [
   {
+    "produto": "Saca Parafusos",
+    "segmento": "Ferramentas",
+    "categoria": "Ferramentas",
+    "codigo": "6900.002.011",
+    "descricao": "Remove parafusos danificados com rapidez, segurança e sem danificar a peça.",
+    "imagem": "https://drive.google.com/thumbnail?id=1Kn2-88-lFelJKIdcONMULotgeKKV-dDN&sz=w1200",
+    "assistente": "https://youtube.com/shorts/aHdTZ0WCFYg?feature=share",
+    "baixar": "https://drive.google.com/file/d/1rwDOwmfn24zuziSZS6WwOFGtrR6rlj0g/view?usp=sharing"
+  },
+  {
     "produto": "Alicates",
     "segmento": "Ferramentas",
     "categoria": "Ferramentas",
