@@ -30,6 +30,19 @@ create policy "Administradores atualizam vídeos" on public.videos for update to
 create policy "Administradores excluem vídeos" on public.videos for delete to authenticated using (true);
 ```
 
+## Armazenamento de imagens e arquivos
+
+Execute também este SQL no mesmo editor para que o painel envie capas e arquivos de download diretamente do computador:
+
+```sql
+insert into storage.buckets (id, name, public) values ('biblioteca-assets', 'biblioteca-assets', true);
+
+create policy "Arquivos públicos da biblioteca" on storage.objects for select to anon, authenticated using (bucket_id = 'biblioteca-assets');
+create policy "Administrador envia arquivos" on storage.objects for insert to authenticated with check (bucket_id = 'biblioteca-assets' and (auth.jwt() ->> 'email') = 'comunicacao@unifort.com.br');
+create policy "Administrador altera arquivos" on storage.objects for update to authenticated using (bucket_id = 'biblioteca-assets' and (auth.jwt() ->> 'email') = 'comunicacao@unifort.com.br');
+create policy "Administrador exclui arquivos" on storage.objects for delete to authenticated using (bucket_id = 'biblioteca-assets' and (auth.jwt() ->> 'email') = 'comunicacao@unifort.com.br');
+```
+
 ## Observação importante de segurança
 
 No início, qualquer pessoa autenticada no seu Supabase poderá administrar a lista. Crie contas somente para administradores. Se futuramente houver vários tipos de usuários, podemos restringir as regras por uma lista de e-mails/perfis.
